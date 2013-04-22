@@ -35,7 +35,7 @@
 @class TKWindow;
 
 /** This class allocates a TKWindow instance and provides a convience method for application launching. */
-@interface TKAppDelegate : NSObject <UIApplicationDelegate> 
+@interface TTKAppDelegate : NSObject <UIApplicationDelegate> 
 
 
 /** This is a convience method for setup of the initial app state. 
